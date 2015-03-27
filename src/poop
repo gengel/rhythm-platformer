@@ -1,0 +1,3 @@
+sprite at: 0xbfffdf40
+Calling draw on states[0] or 0xbfffdf40
+Now drawing: 
